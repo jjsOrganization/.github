@@ -12,3 +12,8 @@
 -->
 
 여기에 작성
+
+Team
+|<img src="" width="150" height="150"/>|<img src="" width="150" height="150"/>|<img src="" width="150" height="150"/>|<img src="" width="150" height="150"/>|<img src="" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|
+|이정필<br/>[@jungpill](https://github.com/jungpill)|김경호<br/>[@sgn07124](https://github.com/sgn07124)|손혁<br/>[@SonHyeok](https://github.com/SonHyeok)|양준규<br/>[@YJKBigBo](https://github.com/YJKBigBo)|고한동<br/>[@YJKBigBo](https://github.com/YJKBigBo)|
