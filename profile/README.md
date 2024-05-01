@@ -47,4 +47,4 @@ Communication |  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?sty
 
 |<img src="" width="150" height="150"/>|<img src="" width="150" height="150"/>|<img src="" width="150" height="150"/>|<img src="" width="150" height="150"/>|<img src="" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|
-|이정필<br/>[@jungpill](https://github.com/jungpill)|김경호<br/>[@sgn07124](https://github.com/sgn07124)|손혁<br/>[@SonHyeok](https://github.com/SonHyeok)|양준규<br/>[@YJKBigBo](https://github.com/YJKBigBo)|고한동<br/>[@YJKBigBo](https://github.com/YJKBigBo)|
+|Frontend<br/>[이정필](https://github.com/jungpill)|Frontend<br/>[양준규](https://github.com/YJKBigBo)|Frontend<br/>[고한동](https://github.com/Undercrosshd)|Backend<br/>[김경호](https://github.com/sgn07124)|Backend<br/>[손혁](https://github.com/SonHyeok)|
