@@ -45,6 +45,6 @@ Communication |  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?sty
 
 ## 팀 소개
 
-|<img src="" width="150" height="150"/>|<img src="" width="150" height="150"/>|<img src="" width="150" height="150"/>|<img src="" width="150" height="150"/>|<img src="" width="150" height="150"/>|
+|<img src="https://avatars.githubusercontent.com/u/156943610?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/133757454?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/122250088?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/76249685?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/87377014?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|
 |Frontend<br/>[이정필](https://github.com/jungpill)|Frontend<br/>[양준규](https://github.com/YJKBigBo)|Frontend<br/>[고한동](https://github.com/Undercrosshd)|Backend<br/>[김경호](https://github.com/sgn07124)|Backend<br/>[손혁](https://github.com/SonHyeok)|
