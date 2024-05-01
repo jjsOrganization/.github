@@ -39,11 +39,8 @@ Version Control | ![Git](https://img.shields.io/badge/git-F05032?style=for-the-b
 Communication |  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
-
-
-
-
 ### 시스템 아키텍쳐
+<p align="center"><img src="./resources/sw_architecture.jpg" width="90%"/></p>
 
 
 ## 팀 소개
