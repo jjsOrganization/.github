@@ -40,7 +40,7 @@ Communication |  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?sty
 
 
 ### 시스템 아키텍쳐
-<p align="center"><img src="profile/resources/sw_architecture.jpg" width="90%"/></p>
+<p align="center"><img src="https://github.com/jjsOrganization/.github/blob/e7120cf364f7c391cc48512f01d1e408f2d57c58/profile/resources/sw_architecture.jpg" width="90%"/></p>
 
 
 ## 팀 소개
