@@ -25,22 +25,32 @@
 
 #### 공통 기능
 
-|<small>회원가입</small>|로그인|Store|
+|<small>회원가입</small>|로그인|test|
 |---|---|---|
-|![image](./resources/회원가입.gif)|![image](./resources/로그인.gif)|![image](./resources/로그인.gif)|
-|구매자, 판매자, 디자이너로 회원가입|로그인|게임 저장 가능|
+|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|
+|구매자, 판매자, 디자이너로 회원가입|로그인|test|
 
 #### 구매자 주요 기능
 
-
+|<small>회원가입</small>|로그인|test|
+|---|---|---|
+|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|
+|구매자, 판매자, 디자이너로 회원가입|로그인|test|
 
 
 #### 판매자 주요 기능
 
+|<small>회원가입</small>|로그인|test|
+|---|---|---|
+|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|
+|구매자, 판매자, 디자이너로 회원가입|로그인|test|
 
 #### 디자이너 주요 기능
 
-
+|<small>회원가입</small>|로그인|test|
+|---|---|---|
+|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|
+|구매자, 판매자, 디자이너로 회원가입|로그인|test|
 
 ## 기술 스택
 
@@ -59,10 +69,10 @@ Communication |  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?sty
 
 
 ### 시스템 아키텍쳐
-<p align="center"><img src="./resources/jjsDb.png" width="90%"/></p>
+<p align="center"><img src="https://github.com/jjsOrganization/.github/blob/main/profile/resources/sw_architecture.jpg" width="90%"/></p>
 
 ### 데이터베이스
-<p align="center"><img src="https://github.com/jjsOrganization/.github/blob/e7120cf364f7c391cc48512f01d1e408f2d57c58/profile/resources/sw_architecture.jpg" width="90%"/></p>
+<p align="center"><img src="https://github.com/jjsOrganization/.github/blob/main/profile/resources/jjsDb.png" width="90%"/></p>
 
 ## 팀 소개
 
