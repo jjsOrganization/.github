@@ -7,6 +7,10 @@
 - 의류 제작 및 폐기가 환경 오염에 끼치는 영향에 대해서 의류/섬유 산업의 순환 경제로의 전환을 위한 연구를 진행한 논문을 인용하면 의류의 환경 영향은 폐기 단계뿐만 아니라 생산 과정에서 도 온실가스 배출, 수질 오염 등을 비롯한 높은 환경 오염을 보이며, 티셔츠 한 벌 생산에 필요 한 물의 양은 2,700L, 청바지는 7,000L이다. 의류 산업에서 배출하는 탄소 배출량은 전체의 10% 에 해당하며, 염료와 표백제 사용으로 산업 수질 오염 비중은 20%, 1차 미세 플라스틱 오염 비 중은 35%인 것으로 조사되었다
 - 특히 악성 재고나 시즌 오프 의류들이 적절히 처리되지 못하는 것이 주요 문제 중 하나이며, 이러한 문제는 단순히 판매자와 소비자 간의 경제적인 문제를 넘어서 환경적인 차원에서 우리 사회에 심각한 부담을 가하고 있다.
 - 이러한 문제를 해결하기 위해 새로운 처리 방식과 기술이 절실하게 필요하다.
+<div align="center">
+   <img alt="img_2.png" height="300" src="https://github.com/GachonMoWA/.github/blob/main/profile/img_2.png" width="300"/>
+   <img alt="img_3.png" height="300" src="https://github.com/GachonMoWA/.github/blob/main/profile/img_3.png" width="400"/>
+</div>
 
 ### 프로젝트 목표
 - 의류 폐기물로 인한 환경 오염을 줄이는 것과 점주들에게 경제적인 부담을 완화 하는 것이다. 의류 떨이 서비스를 통해 악성 재고를 처리하고, 상품을 재활용 및 개조하여 지속 가능한 소비와 생산을 촉진하며, 판매자, 디자이너, 구매자에게 상호 간의 혜택을 제공한다.
@@ -16,10 +20,26 @@
 
 ## 프로젝트 소개
 
-### 리폼 흐름도
-
 
 ### 주요 기능
+
+#### 공통 기능
+
+|<small>회원가입</small>|로그인|Store|
+|---|---|---|
+|![image](./resources/회원가입.gif)|![image](./resources/로그인.gif)|![image](./resources/로그인.gif)|
+|구매자, 판매자, 디자이너로 회원가입|로그인|게임 저장 가능|
+
+#### 구매자 주요 기능
+
+
+
+
+#### 판매자 주요 기능
+
+
+#### 디자이너 주요 기능
+
 
 
 ## 기술 스택
@@ -34,14 +54,15 @@ Database | ![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badg
 Server | ![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white) ![S3](https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white) ![Ec2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white) ![Kafka](https://img.shields.io/badge/ApacheKafka-%3333333.svg?style=for-the-badge&logo=ApacheKafka&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-232F3E?style=for-the-badge&logo=amazon-rds&logoColor=white)
 CI/CD | ![Github Action](https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white)
 Development Tools | ![VSCode](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-Framework | 
 Version Control | ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 Communication |  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
 ### 시스템 아키텍쳐
-<p align="center"><img src="https://github.com/jjsOrganization/.github/blob/e7120cf364f7c391cc48512f01d1e408f2d57c58/profile/resources/sw_architecture.jpg" width="90%"/></p>
+<p align="center"><img src="./resources/jjsDb.png" width="90%"/></p>
 
+### 데이터베이스
+<p align="center"><img src="https://github.com/jjsOrganization/.github/blob/e7120cf364f7c391cc48512f01d1e408f2d57c58/profile/resources/sw_architecture.jpg" width="90%"/></p>
 
 ## 팀 소개
 
