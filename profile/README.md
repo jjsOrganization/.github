@@ -39,7 +39,7 @@
 
 4. 디자이너가 구매자와 채팅으로 견적 상담을 진행하고, 견적 작성 후 견적서 제출을 한다. 
 
-![견적서 작성](https://github.com/jjsOrganization/server/assets/76249685/119b16e6-3764-4bf5-b353-1567e2dc1751)
+![견적서 등록](https://github.com/jjsOrganization/server/assets/76249685/534321bb-e1d0-498d-b00f-068162d2a3df)
 
 5. 구매자가 디자이너가 작성한 견적서를 확인하고, 최종 승인 여부 결정 및  리폼 완료 시 진행되는 배송지 입력 등을 한다. 배송지 입력 완료 시, 디자이너는 리폼을 시작한다.
 
@@ -50,37 +50,11 @@
 
 #### 공통 기능
 
-|회원가입|로그인|상품 조회|
-|---|---|---|
-|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|
-|구매자, 판매자, 디자이너로 회원가입|회원 로그인|상품을 인기순과 최신순으로 조회 및 검색|
-
-|상품 상세 조회|디저이너 조회|작업물 조회|
-|---|---|---|
-|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|
-|구매자, 판매자, 디자이너로 회원가입|회원 로그인|test|
-
-#### 구매자 주요 기능
-
-|상품 좋아요|로그인|test|
-|---|---|---|
-|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|
-|구매자, 판매자, 디자이너로 회원가입|로그인|test|
-
-
-#### 판매자 주요 기능
-
-|상품 등록|상품 수정|상품 삭제|
-|---|---|---|
-|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|
-|구매자, 판매자, 디자이너로 회원가입|로그인|test|
-
-#### 디자이너 주요 기능
-
-|<small>포트폴리오 등록</small>|로그인|test|
-|---|---|---|
-|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|
-|구매자, 판매자, 디자이너로 회원가입|로그인|test|
+- 로그인 및 회원가입
+  - 회원은 구매자, 판매자, 디자이너로 구분된다. 회원가입 시 각 회원 별 양식이 다르며, 회원 이메일은 중복을 허용하지 않는다.
+  - 회원들은 모두 하나의 로그인 화면에서 로그인을 진행한다.
+- 
+  
 
 ## 기술 스택
 
