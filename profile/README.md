@@ -23,16 +23,35 @@
 
 ### 주요 기능
 
+#### 구매자 - 디자이너 리폼 과정
+
+1. 판매자가 상품을 등록한다.
+
+![상품등록](https://github.com/jjsOrganization/server/assets/76249685/973129f8-fbb2-4416-9c98-5947452b8d60)
+
+2. 구매가 리폼 요청을 한다.
+
+3. 디자너가 리ㅁ 요청 승인 여부를 결정한다.
+4. 디이너가 구매자와 채팅 및 견적 작ㅇ 및 견적서 제출을 한다.
+5. 구자가 견적서 최종 승인 여부를 결정 배송ㅣ 입력등을 한다.
+6. 디자이너가가 형상관리 이미지 등록을 한다.
+7. 구자는 형상관리 이미지를 확인하며 리폼 진행ㅣ 완료된다.
+
 #### 공통 기능
 
-|<small>회원가입</small>|로그인|test|
+|회원가입|로그인|상품 조회|
 |---|---|---|
 |![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|
-|구매자, 판매자, 디자이너로 회원가입|로그인|test|
+|구매자, 판매자, 디자이너로 회원가입|회원 로그인|상품을 인기순과 최신순으로 조회 및 검색|
+
+|상품 상세 조회|디저이너 조회|작업물 조회|
+|---|---|---|
+|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|
+|구매자, 판매자, 디자이너로 회원가입|회원 로그인|test|
 
 #### 구매자 주요 기능
 
-|<small>회원가입</small>|로그인|test|
+|상품 좋아요|로그인|test|
 |---|---|---|
 |![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|
 |구매자, 판매자, 디자이너로 회원가입|로그인|test|
@@ -40,14 +59,14 @@
 
 #### 판매자 주요 기능
 
-|<small>회원가입</small>|로그인|test|
+|상품 등록|상품 수정|상품 삭제|
 |---|---|---|
 |![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|
 |구매자, 판매자, 디자이너로 회원가입|로그인|test|
 
 #### 디자이너 주요 기능
 
-|<small>회원가입</small>|로그인|test|
+|<small>포트폴리오 등록</small>|로그인|test|
 |---|---|---|
 |![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)|![image](https://github.com/jjsOrganization/.github/blob/main/profile/resources/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)|
 |구매자, 판매자, 디자이너로 회원가입|로그인|test|
