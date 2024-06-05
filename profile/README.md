@@ -1,6 +1,6 @@
 # 의류재고 떨이 & 리폼 플랫폼
 
-## 프로젝트 개요
+## 프로젝트 소개
 
 ### 문제 정의
 - 현대 사회에서는 패션 트렌드의 빠른 변화와 소비자들의 다양한 요구로 인해 의류 산업이 크게 성장하고 있다. 하지만 이러한 성장은 그림자를 동반하고 있다. 의류 폐기물이 급증함에 따라 점주들은 많은 손해를 입고 있으며, 환경 오염 문제도 심각해지고 있다.
@@ -18,12 +18,9 @@
 - 구매자는 악성 재고를 저렴하게 구매할 수 있고, 플랫폼을 통해 구매와 리폼을 동시에 진행할 수 있다.
 - 디자이너는 리폼 시장 활성화로 인한 수익 창출 기회가 확대되고 경험을 쌓을 수 있는 현장을 제공받는다.
 
-## 프로젝트 소개
+## 주요 기능
 
-
-### 주요 기능
-
-#### 구매자 - 디자이너 리폼 과정
+### 구매자 - 디자이너 리폼 과정
 
 1. 판매자가 상품을 등록한다.
 
@@ -48,17 +45,30 @@
 6. 디자이너는 리폼을 진행하며 형상관리(진행 현황) 이미지를 등록 한다.
 7. 구매자는 형상관리 이미지를 확인할 수 있으며, 형상관리 마지막 이미지 등록 확인 시 리폼 완료를 알 수 있다.
 
-#### 공통 기능
+### 공통 기능
 
 - 로그인 및 회원가입
   - 회원은 구매자, 판매자, 디자이너로 구분된다. 회원가입 시 각 회원 별 양식이 다르며, 회원 이메일은 중복을 허용하지 않는다.
   - 회원들은 모두 하나의 로그인 화면에서 로그인을 진행한다.
-- 
+- 판매자
+  - 판매자의 상품 등록, 수정, 삭제, 판매 내역 조회
+- 구매자
+  - 구매자는 장바구니 이용 가능(회원가입 시 하나의 장바구니 자동 생성)
+  - 상품 좋아요 가능 (상품 인기순 조회에 반영)
+  - 리폼 의뢰 가능(리폼 과정은 [구매자-디자이너 리폼 과정](https://github.com/jjsOrganization/.github/blob/619eaf4576671db7bbd9ab9ac62b2d7bcaeebfce/profile/README.md?plain=1#L26) 참고)
+  - 상품 구매 가능
+- 디자이너
+  - 포트폴리오 등록, 수정, 조회
+  - 구매자의 리폼 의뢰에 대한 리폼 진행 (리폼 과정은 [구매자-디자이너 리폼 과정](https://github.com/jjsOrganization/.github/blob/619eaf4576671db7bbd9ab9ac62b2d7bcaeebfce/profile/README.md?plain=1#L26) 참고)
+  - 리폼 완료된 항목에 대한 작업물 등록. 자신의 포트폴리오로 사용하기 위함
+- 모든 회원
+  - 상품 전체 조회 및 상세 조회
+  - 포트폴리오 전체 조회 및 상세 조회
+  - 디자이너 작업물 전체 조회 및 상세 조회
+  - 물 사용량 조회
   
 
 ## 기술 스택
-
-### 기술 스택
 
 OS | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 --- | --- |
@@ -72,11 +82,16 @@ Version Control | ![Git](https://img.shields.io/badge/git-F05032?style=for-the-b
 Communication |  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
-### 시스템 아키텍쳐
+## 시스템 아키텍쳐
 <p align="center"><img src="https://github.com/jjsOrganization/.github/blob/main/profile/resources/sw_architecture.jpg" width="90%"/></p>
 
-### 데이터베이스
+## ERD 설계
 <p align="center"><img src="https://github.com/jjsOrganization/.github/blob/main/profile/resources/jjsDb.png" width="90%"/></p>
+
+## 기획 및 설계
+
+[API 명세서](https://magenta-camp-6cd.notion.site/API-7e5c9ecd12004583a2ba8c368f4a177a?pvs=4)<br>
+[전공종합설계(2) 최종 발표 자료](https://github.com/jjsOrganization/.github/blob/main/%EC%A0%84%EA%B3%B5%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84(2)%20%EC%A0%9C%EC%B6%9C%EB%AC%BC/%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%89%E1%85%A5%E1%86%AF-%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 
 ## 팀 소개
 
